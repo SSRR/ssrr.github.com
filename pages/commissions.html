@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lange="en">
+<head>
+    <!-- Meta -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width">
+    <title>SSRR 2012</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Icons -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+
+    <!-- Shims: IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+        <script async src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Styles -->
+    <link href="/styles/style.css" rel="stylesheet"/>
+    <link href="/vendor/prettify.css" rel="stylesheet"/>
+    <link href="/vendor/responsive.min.css" rel="stylesheet"/>
+    
+</head>
+<body>
+    <!-- Scripts -->
+    <script src="/vendor/jquery-1.6.4.min.js"></script>
+    <script src="/vendor/prettify.js"></script>
+    
+    <script src="/scripts/script.js"></script>
+
+    <!-- Markup -->
+    <div class="navbar navbar-fixed-top">
+        <div class="navbar-inner">
+            <div class="container">
+                <a class="brand" href="/">SSRR 2012</a>
+                <ul class="nav">
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/commissions.html" class="active">
+                            <a href="/pages/commissions.html" property="dc:title">Call for Papers</a>
+                        </li>
+                        
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/call-for-papers.html" class="">
+                            <a href="/pages/call-for-papers.html" property="dc:title">Call for Papers</a>
+                        </li>
+                        
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/important-dates.html" class="">
+                            <a href="/pages/important-dates.html" property="dc:title">Important Dates</a>
+                        </li>
+                        
+                    
+                        
+                    
+                        
+                        <li typeof="sioc:Page" about="/pages/venue.html" class="">
+                            <a href="/pages/venue.html" property="dc:title">Venue</a>
+                        </li>
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <section id="content" class="content">
+            <h1>Getting Started</h1>
+
+<div class="well">
+  <ul class="nav nav-list">
+    <li class="nav-header"><a href="#markups">Markups</a></li>
+    <% for document in @database.sortArray('title':1): %>
+    <% if document.url.indexOf('/markups') == 0: %>
+    <li><a href="#<%= document.filename %>"><%= document.title %></a></li>
+    <% end %>
+    <% end %>
+    <li class="nav-header"><a href="#blog">Example Blog Posts</a></li>
+    <li class="nav-header"><a href="#blog">Nifties</a></li>
+    <li class="nav-header"><a href="#blog">View page source</a></li>
+  </ul>
+</div>
+
+
+<h2 id="markups">Markups</h2>
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th style="width: 50%;">Source File</th>
+            <th style="width: 50%;">Result File</th>
+        </tr>
+    </thead>
+    <tbody>
+        <% for document in @database.sortArray('title':1): %>
+            <% if document.url.indexOf('/markups') == 0: %>
+            <tr typeof="sioc:Page" about="<%= document.url %>" id="<%= document.filename %>">
+                <td colspan="2">
+                    <strong><%= document.title %></strong>
+                <td>
+            </tr>
+            <tr typeof="sioc:Page" about="<%= document.url %>">
+                <td>
+                    <%= document.filename %>
+                    <pre class="prettyprint lang-<%= document.filename.replace(/^.*\./,'') %>"><%= (document.content or '').replace(/^\s+/,'') %></pre>
+                </td>
+                <td>
+                    <a href="<%= document.url %>">
+                        <%= document.url.replace(/^.*\//,'') %>
+                    </a>
+                    <pre class="prettyprint lang-<%= document.extension %>"><%= document.contentRendered.replace(/^\s+/,'') %></pre>
+                </td>
+            </tr>
+            <% end %>
+        <% end %>
+    </tbody>
+</table>
+
+<h2 id="blog">Example Blog Posts</h2>
+<ul>
+    <% for document in @documents: %>
+        <% if document.url.indexOf('/posts') == 0: %>
+        <li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'    if @document.url is document.url %>">
+            <a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+        </li>
+        <% end %>
+    <% end %>
+</ul>
+
+<h2 id="nifties">Nifties</h2>
+<ul>
+    <% for document in @documents: %>
+        <% if document.url.indexOf('/nifty') == 0: %>
+        <li typeof="sioc:Page" about="<%= document.url %>" class="<%= 'active'    if @document.url is document.url %>">
+            <a href="<%= document.url %>" property="dc:title"><%= document.title %></a>
+        </li>
+        <% end %>
+    <% end %>
+    <li><a href="/search?query=coffee">A dynamic search page for <em>"coffee"</em></a></li>
+</ul>
+
+        </section>
+        <footer>
+            <p>&copy; SSRR2012</p>
+            <p style="float:right;">
+                This website was generated on 2012-06-04T08:03:33Z and has  documents
+            </p>
+        </footer>
+        <section id="source" class="source">
+            <h3 id="source-header"><a>Click to view this page's source</a></h3>
+            <div id="source-code">
+                <div>src/pages/commissions.html</div>
+                <pre class="prettyprint">---
+layout: 'default'
+title: 'Call for Papers'
+---
+
+&lt;h1&gt;Getting Started&lt;/h1&gt;
+
+&lt;div class=&quot;well&quot;&gt;
+  &lt;ul class=&quot;nav nav-list&quot;&gt;
+	&lt;li class=&quot;nav-header&quot;&gt;&lt;a href=&quot;#markups&quot;&gt;Markups&lt;/a&gt;&lt;/li&gt;
+	&lt;% for document in @database.sortArray('title':1): %&gt;
+	&lt;% if document.url.indexOf('/markups') == 0: %&gt;
+	&lt;li&gt;&lt;a href=&quot;#&lt;%= document.filename %&gt;&quot;&gt;&lt;%= document.title %&gt;&lt;/a&gt;&lt;/li&gt;
+	&lt;% end %&gt;
+	&lt;% end %&gt;
+	&lt;li class=&quot;nav-header&quot;&gt;&lt;a href=&quot;#blog&quot;&gt;Example Blog Posts&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-header&quot;&gt;&lt;a href=&quot;#blog&quot;&gt;Nifties&lt;/a&gt;&lt;/li&gt;
+	&lt;li class=&quot;nav-header&quot;&gt;&lt;a href=&quot;#blog&quot;&gt;View page source&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/div&gt;
+
+
+&lt;h2 id=&quot;markups&quot;&gt;Markups&lt;/h2&gt;
+&lt;table class=&quot;table table-bordered table-striped&quot;&gt;
+	&lt;thead&gt;
+		&lt;tr&gt;
+			&lt;th style=&quot;width: 50%;&quot;&gt;Source File&lt;/th&gt;
+			&lt;th style=&quot;width: 50%;&quot;&gt;Result File&lt;/th&gt;
+		&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+		&lt;% for document in @database.sortArray('title':1): %&gt;
+			&lt;% if document.url.indexOf('/markups') == 0: %&gt;
+			&lt;tr typeof=&quot;sioc:Page&quot; about=&quot;&lt;%= document.url %&gt;&quot; id=&quot;&lt;%= document.filename %&gt;&quot;&gt;
+				&lt;td colspan=&quot;2&quot;&gt;
+					&lt;strong&gt;&lt;%= document.title %&gt;&lt;/strong&gt;
+				&lt;td&gt;
+			&lt;/tr&gt;
+			&lt;tr typeof=&quot;sioc:Page&quot; about=&quot;&lt;%= document.url %&gt;&quot;&gt;
+				&lt;td&gt;
+					&lt;%= document.filename %&gt;
+					&lt;pre class=&quot;prettyprint lang-&lt;%= document.filename.replace(/^.*\./,'') %&gt;&quot;&gt;&lt;%= (document.content or '').replace(/^\s+/,'') %&gt;&lt;/pre&gt;
+				&lt;/td&gt;
+				&lt;td&gt;
+					&lt;a href=&quot;&lt;%= document.url %&gt;&quot;&gt;
+						&lt;%= document.url.replace(/^.*\//,'') %&gt;
+					&lt;/a&gt;
+					&lt;pre class=&quot;prettyprint lang-&lt;%= document.extension %&gt;&quot;&gt;&lt;%= document.contentRendered.replace(/^\s+/,'') %&gt;&lt;/pre&gt;
+				&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;% end %&gt;
+		&lt;% end %&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;blog&quot;&gt;Example Blog Posts&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;% for document in @documents: %&gt;
+		&lt;% if document.url.indexOf('/posts') == 0: %&gt;
+		&lt;li typeof=&quot;sioc:Page&quot; about=&quot;&lt;%= document.url %&gt;&quot; class=&quot;&lt;%= 'active'	if @document.url is document.url %&gt;&quot;&gt;
+			&lt;a href=&quot;&lt;%= document.url %&gt;&quot; property=&quot;dc:title&quot;&gt;&lt;%= document.title %&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;% end %&gt;
+	&lt;% end %&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;nifties&quot;&gt;Nifties&lt;/h2&gt;
+&lt;ul&gt;
+	&lt;% for document in @documents: %&gt;
+		&lt;% if document.url.indexOf('/nifty') == 0: %&gt;
+		&lt;li typeof=&quot;sioc:Page&quot; about=&quot;&lt;%= document.url %&gt;&quot; class=&quot;&lt;%= 'active'	if @document.url is document.url %&gt;&quot;&gt;
+			&lt;a href=&quot;&lt;%= document.url %&gt;&quot; property=&quot;dc:title&quot;&gt;&lt;%= document.title %&gt;&lt;/a&gt;
+		&lt;/li&gt;
+		&lt;% end %&gt;
+	&lt;% end %&gt;
+	&lt;li&gt;&lt;a href=&quot;/search?query=coffee&quot;&gt;A dynamic search page for &lt;em&gt;&quot;coffee&quot;&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</pre>
+            </div>
+        </section>
+    </div><!-- /container -->
+</body>
+</html>
