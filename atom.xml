@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-26T05:10:45Z</updated>
+    <updated>2012-06-26T05:17:30Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -70,7 +70,7 @@
                                           International Symposium on
                                           Safety, Security and Rescue Robotics&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-&lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
+        &lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
@@ -83,17 +83,17 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
     
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;vendor/prettify.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
     
-    &lt;script src=&quot;scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
@@ -181,7 +181,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-26T05:10:44Z.
+                This website was generated on 2012-06-26T05:17:29Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -210,7 +210,7 @@
                                           International Symposium on
                                           Safety, Security and Rescue Robotics&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-&lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
+        &lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
@@ -223,17 +223,17 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
+    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
     
 &lt;/head&gt;
 &lt;body&gt;
     &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;vendor/prettify.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
     
-    &lt;script src=&quot;scripts/script.js&quot;&gt;&lt;/script&gt;
+    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
@@ -321,7 +321,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-26T05:10:44Z.
+                This website was generated on 2012-06-26T05:17:29Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
