@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-06-26T04:45:23Z</updated>
+    <updated>2012-06-26T04:58:55Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -70,7 +70,7 @@
                                           International Symposium on
                                           Safety, Security and Rescue Robotics&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt; 
+&lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
@@ -181,7 +181,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-26T04:45:23Z.
+                This website was generated on 2012-06-26T04:58:55Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -210,7 +210,7 @@
                                           International Symposium on
                                           Safety, Security and Rescue Robotics&quot;&gt;
     &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt; 
+&lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
 
     &lt;!-- Icons --&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
@@ -321,7 +321,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-06-26T04:45:23Z.
+                This website was generated on 2012-06-26T04:58:55Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
