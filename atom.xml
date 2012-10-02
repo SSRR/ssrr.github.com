@@ -3,15 +3,13 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-09-21T04:59:10Z</updated>
+    <updated>2012-10-02T16:38:34Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
-    
-        
     
         
     
@@ -117,6 +115,12 @@
                         
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
@@ -125,12 +129,6 @@
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -229,7 +227,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-09-21T04:59:10Z.
+                This website was generated on 2012-10-02T16:38:34Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -293,6 +291,12 @@
                         
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
@@ -301,12 +305,6 @@
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -405,7 +403,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-09-21T04:59:10Z.
+                This website was generated on 2012-10-02T16:38:34Z.
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -413,6 +411,8 @@
 &lt;/html&gt;
 </content>
             </entry>
+        
+    
         
     
         
