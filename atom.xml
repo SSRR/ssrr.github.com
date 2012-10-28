@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-10-18T20:09:30Z</updated>
+    <updated>2012-10-28T20:04:52.266Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -20,33 +20,11 @@
         
     
         
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
-    
-        
             <entry>
                 <title>Bonjour</title>
-                <link href="http://balupton.com/posts/bonjour.html"/>
-                <updated>2012-06-04T07:29:38Z</updated>
-                <id>http://balupton.com/posts/bonjour.html</id>
+                <link href="http://balupton.com/posts/bonjour"/>
+                <updated>2012-10-28T18:48:11.000Z</updated>
+                <id>http://balupton.com/posts/bonjour</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -55,14 +33,14 @@
     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;SSRR 2012&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 - 10th IEEE
-                                          International Symposium on
-                                          Safety, Security and Rescue Robotics&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-        &lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
+    &lt;title&gt;Bonjour | SSRR 2012&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 Website&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;disaster, rescue, rescue robotics, safety and security&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
 
     &lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
@@ -73,18 +51,9 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
-    
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
@@ -95,87 +64,97 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/travel-award.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/travel-award.html&quot; property=&quot;dc:title&quot;&gt;Travel Award Instructions&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/registration&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/accommodations&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                    
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/visa-information&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/visa-information&quot; property=&quot;dc:title&quot;&gt;Visa Information&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                         
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                 &lt;/ul&gt;
@@ -183,6 +162,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;container&quot;&gt;
+        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
         &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
                   &lt;div class=&quot;row&quot; style=&quot;text-align:right;&quot;&gt;
                     &lt;img src=&quot;/images/IEEE_MB_Blue.jpg&quot;
@@ -192,6 +172,7 @@
                   &lt;/div class&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Bonjour &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
 &lt;/div&gt;
 
 &lt;footer&gt;
@@ -201,10 +182,16 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-10-18T20:09:29Z.
+                This website was last updated at 2012-10-28T20:04:52.266Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
+
+    &lt;!-- Scripts --&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
@@ -212,11 +199,23 @@
         
     
         
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
             <entry>
                 <title>Hello</title>
-                <link href="http://balupton.com/posts/hello.html"/>
-                <updated>2012-06-04T07:29:38Z</updated>
-                <id>http://balupton.com/posts/hello.html</id>
+                <link href="http://balupton.com/posts/hello"/>
+                <updated>2012-10-28T18:48:11.000Z</updated>
+                <id>http://balupton.com/posts/hello</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
 &lt;head&gt;
@@ -225,14 +224,14 @@
     &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge,chrome=1&quot; /&gt;
     &lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=utf-8&quot; /&gt;
     &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot;&gt;
-    &lt;title&gt;SSRR 2012&lt;/title&gt;
-    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 - 10th IEEE
-                                          International Symposium on
-                                          Safety, Security and Rescue Robotics&quot;&gt;
-    &lt;meta name=&quot;author&quot; content=&quot;Serge Stinckwich&quot;&gt;
-        &lt;!--        &lt;base href=&quot;http://www.andrew.cmu.edu/org/SSRR2012/&quot;&gt;  --&gt;
+    &lt;title&gt;Hello | SSRR 2012&lt;/title&gt;
+    &lt;meta name=&quot;description&quot; content=&quot;SSRR 2012 Website&quot; /&gt;
+    &lt;meta name=&quot;keywords&quot; content=&quot;disaster, rescue, rescue robotics, safety and security&quot; /&gt;
+    &lt;meta name=&quot;author&quot; content=&quot;&quot; /&gt;
+    &lt;meta http-equiv=&quot;X-Powered-By&quot; content=&quot;DocPad&quot;/&gt;
 
     &lt;!-- Icons --&gt;
+    &lt;link rel=&quot;shortcut icon&quot; href=&quot;images/favicon.ico&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; href=&quot;images/apple-touch-icon.png&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;72x72&quot; href=&quot;images/apple-touch-icon-72x72.png&quot;&gt;
     &lt;link rel=&quot;apple-touch-icon&quot; sizes=&quot;114x114&quot; href=&quot;images/apple-touch-icon-114x114.png&quot;&gt;
@@ -243,18 +242,9 @@
     &lt;![endif]--&gt;
 
     &lt;!-- Styles --&gt;
-    &lt;link href=&quot;/styles/style.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/prettify.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    &lt;link href=&quot;/vendor/responsive.min.css&quot; rel=&quot;stylesheet&quot;/&gt;
-    
+    &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles/style.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/prettify.css&quot; /&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;/vendor/responsive.min.css&quot; /&gt;
 &lt;/head&gt;
 &lt;body&gt;
-    &lt;!-- Scripts --&gt;
-    &lt;script src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;
-    &lt;script src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;
-    
-    &lt;script src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
-
     &lt;!-- Markup --&gt;
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
@@ -265,87 +255,97 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/travel-award.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/travel-award.html&quot; property=&quot;dc:title&quot;&gt;Travel Award Instructions&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/registration&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/accommodations&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
-                    
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/visa-information&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/visa-information&quot; property=&quot;dc:title&quot;&gt;Visa Information&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                         
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
-                        
-                    
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                        &lt;/li&gt;
                         
                     
                 &lt;/ul&gt;
@@ -353,6 +353,7 @@
         &lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;container&quot;&gt;
+        &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
         &lt;section id=&quot;content&quot; class=&quot;content&quot;&gt;
                   &lt;div class=&quot;row&quot; style=&quot;text-align:right;&quot;&gt;
                     &lt;img src=&quot;/images/IEEE_MB_Blue.jpg&quot;
@@ -362,6 +363,7 @@
                   &lt;/div class&gt;
             &lt;div id=&quot;post&quot; class=&quot;post&quot;&gt;
     &lt;p&gt;Hello &lt;strong&gt;world&lt;/strong&gt;&lt;/p&gt;
+
 &lt;/div&gt;
 
 &lt;footer&gt;
@@ -371,14 +373,40 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was generated on 2012-10-18T20:09:29Z.
+                This website was last updated at 2012-10-28T20:04:52.266Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
+
+    &lt;!-- Scripts --&gt;
+    &lt;script  src=&quot;/socket.io/socket.io.js&quot;&gt;&lt;/script&gt;&lt;script &gt;var socket = io.connect('/docpad-live-reload');
+socket.on('regenerated',function(){
+	document.location.reload();
+});&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/jquery-1.6.4.min.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/vendor/prettify.js&quot;&gt;&lt;/script&gt;&lt;script defer=&quot;defer&quot;  src=&quot;/scripts/script.js&quot;&gt;&lt;/script&gt;
 &lt;/body&gt;
 &lt;/html&gt;
 </content>
             </entry>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <entry>
+                <title>Read More</title>
+                <link href="http://balupton.com/posts/readmore"/>
+                <updated>2012-10-28T18:48:11.000Z</updated>
+                <id>http://balupton.com/posts/readmore</id>
+                <content type="html">false</content>
+            </entry>
+        
+    
         
     
         
