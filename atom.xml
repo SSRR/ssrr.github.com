@@ -3,13 +3,15 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2012-10-28T20:04:52.266Z</updated>
+    <updated>2012-11-04T05:42:42.340Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
     
         
     
@@ -62,6 +64,12 @@
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                     
@@ -106,12 +114,6 @@
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -182,7 +184,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-10-28T20:04:52.266Z
+                This website was last updated at 2012-11-04T05:42:42.340Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -253,6 +255,12 @@ socket.on('regenerated',function(){
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                     
@@ -297,12 +305,6 @@ socket.on('regenerated',function(){
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -373,7 +375,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2012-10-28T20:04:52.266Z
+                This website was last updated at 2012-11-04T05:42:42.340Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -405,8 +407,6 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html">false</content>
             </entry>
-        
-    
         
     
         
