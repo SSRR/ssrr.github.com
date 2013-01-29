@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-29T12:16:42.338Z</updated>
+    <updated>2013-01-29T12:27:18.055Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -176,7 +176,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T12:16:42.338Z
+                This website was last updated at 2013-01-29T12:27:18.055Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -319,7 +319,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T12:16:42.338Z
+                This website was last updated at 2013-01-29T12:27:18.055Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -336,6 +336,8 @@ socket.on('regenerated',function(){
         
     
         
+    
+        
             <entry>
                 <title>Read More</title>
                 <link href="http://balupton.com/posts/readmore"/>
@@ -343,8 +345,6 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html"></content>
             </entry>
-        
-    
         
     
         
