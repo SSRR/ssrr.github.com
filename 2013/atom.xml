@@ -3,13 +3,17 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-29T08:45:50.665Z</updated>
+    <updated>2013-01-29T09:44:29.257Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
+    
+        
     
         
     
@@ -126,8 +130,20 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/accommodations&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -144,20 +160,14 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -171,12 +181,6 @@
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/registration&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -220,7 +224,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T08:45:50.665Z
+                This website was last updated at 2013-01-29T09:44:29.257Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -234,8 +238,6 @@ socket.on('regenerated',function(){
 &lt;/html&gt;
 </content>
             </entry>
-        
-    
         
     
         
@@ -307,8 +309,20 @@ socket.on('regenerated',function(){
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/accommodations&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -325,20 +339,14 @@ socket.on('regenerated',function(){
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/conference-schedule&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/conference-venue&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -352,12 +360,6 @@ socket.on('regenerated',function(){
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;/pages/registration&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -401,7 +403,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T08:45:50.665Z
+                This website was last updated at 2013-01-29T09:44:29.257Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -425,8 +427,6 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html"></content>
             </entry>
-        
-    
         
     
         
