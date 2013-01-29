@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-29T10:17:13.786Z</updated>
+    <updated>2013-01-29T10:24:56.956Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -88,7 +88,7 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/2013&quot;&gt;SSRR 2013&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2013&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -176,7 +176,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T10:17:13.786Z
+                This website was last updated at 2013-01-29T10:24:56.956Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -231,7 +231,7 @@ socket.on('regenerated',function(){
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/2013&quot;&gt;SSRR 2013&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2013&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -319,7 +319,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T10:17:13.786Z
+                This website was last updated at 2013-01-29T10:24:56.956Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
