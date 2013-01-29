@@ -3,19 +3,13 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-29T12:27:18.055Z</updated>
+    <updated>2013-01-29T12:29:39.446Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
-    
-        
-    
-        
-    
-        
     
         
     
@@ -124,6 +118,12 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr2012.org/2013/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
@@ -139,12 +139,6 @@
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr2012.org/2013/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -176,7 +170,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T12:27:18.055Z
+                This website was last updated at 2013-01-29T12:29:39.446Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -267,6 +261,12 @@ socket.on('regenerated',function(){
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr2012.org/2013/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
@@ -282,12 +282,6 @@ socket.on('regenerated',function(){
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr2012.org/2013/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -319,7 +313,7 @@ socket.on('regenerated',function(){
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-29T12:27:18.055Z
+                This website was last updated at 2013-01-29T12:29:39.446Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -336,8 +330,6 @@ socket.on('regenerated',function(){
         
     
         
-    
-        
             <entry>
                 <title>Read More</title>
                 <link href="http://balupton.com/posts/readmore"/>
@@ -345,6 +337,14 @@ socket.on('regenerated',function(){
                 <id>http://balupton.com/posts/readmore</id>
                 <content type="html"></content>
             </entry>
+        
+    
+        
+    
+        
+    
+        
+    
         
     
         
