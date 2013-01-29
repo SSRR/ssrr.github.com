@@ -125,19 +125,19 @@
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;/pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;/pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                            &lt;a href=&quot;/pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -268,19 +268,19 @@ socket.on('regenerated',function(){
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;/pages/call-for-papers&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;/pages/committee&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                            &lt;a href=&quot;/pages/Submissions&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
