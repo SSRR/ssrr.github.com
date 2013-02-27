@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-01-30T10:41:54.169Z</updated>
+    <updated>2013-02-22T10:36:06.497Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -50,10 +50,12 @@
         
     
         
+    
+        
             <entry>
                 <title>Bonjour</title>
                 <link href="http://balupton.com/posts/bonjour.html"/>
-                <updated>2013-01-25T12:30:12.000Z</updated>
+                <updated>2013-02-20T20:11:56.000Z</updated>
                 <id>http://balupton.com/posts/bonjour.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -142,6 +144,12 @@
                         
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/test.md&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/test.md&quot; property=&quot;dc:title&quot;&gt;&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                     
@@ -176,7 +184,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-30T10:41:54.169Z
+                This website was last updated at 2013-02-22T10:36:06.497Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -193,7 +201,7 @@
             <entry>
                 <title>Hello</title>
                 <link href="http://balupton.com/posts/hello.html"/>
-                <updated>2013-01-25T12:30:12.000Z</updated>
+                <updated>2013-02-20T20:11:56.000Z</updated>
                 <id>http://balupton.com/posts/hello.html</id>
                 <content type="html">&lt;!DOCTYPE html&gt;
 &lt;html lang=&quot;en&quot;&gt;
@@ -282,6 +290,12 @@
                         
                     
                         
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/test.md&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;/pages/test.md&quot; property=&quot;dc:title&quot;&gt;&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
                     
                         
                     
@@ -316,7 +330,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-01-30T10:41:54.169Z
+                This website was last updated at 2013-02-22T10:36:06.497Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -333,7 +347,7 @@
             <entry>
                 <title>Read More</title>
                 <link href="http://balupton.com/posts/readmore.html"/>
-                <updated>2013-01-25T12:30:12.000Z</updated>
+                <updated>2013-02-20T20:11:56.000Z</updated>
                 <id>http://balupton.com/posts/readmore.html</id>
                 <content type="html"></content>
             </entry>
