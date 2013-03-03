@@ -3,15 +3,13 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-03-03T18:52:07.823Z</updated>
+    <updated>2013-03-03T18:56:28.260Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
-    
-        
     
         
     
@@ -90,7 +88,7 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2013&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;http://www.ssrr-conference.org/2013&quot;&gt;SSRR 2013&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -144,12 +142,6 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/test.md&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/test.md&quot; property=&quot;dc:title&quot;&gt;&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
                     
                         
                     
@@ -184,7 +176,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-03-03T18:52:07.823Z
+                This website was last updated at 2013-03-03T18:56:28.260Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -236,7 +228,7 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2013&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;http://www.ssrr-conference.org/2013&quot;&gt;SSRR 2013&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -290,12 +282,6 @@
                         
                     
                         
-                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/test.md&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/test.md&quot; property=&quot;dc:title&quot;&gt;&lt;/a&gt;
-                        &lt;/li&gt;
-                        
-                    
-                        
                     
                         
                     
@@ -330,7 +316,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-03-03T18:52:07.823Z
+                This website was last updated at 2013-03-03T18:56:28.260Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
