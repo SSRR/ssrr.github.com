@@ -3,7 +3,7 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-03-03T21:20:26.029Z</updated>
+    <updated>2013-03-03T21:25:35.032Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
@@ -100,7 +100,7 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2012&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;http://www.ssrr-conference.org/2012&quot;&gt;SSRR 2012&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -137,55 +137,55 @@
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/accommodations.html&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/accommodations.html&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/keynotes.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/keynotes.html&quot; property=&quot;dc:title&quot;&gt;Keynotes&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/keynotes.html&quot; property=&quot;dc:title&quot;&gt;Keynotes&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -224,7 +224,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-03-03T21:20:26.029Z
+                This website was last updated at 2013-03-03T21:25:35.032Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -276,7 +276,7 @@
     &lt;div class=&quot;navbar navbar-fixed-top&quot;&gt;
         &lt;div class=&quot;navbar-inner&quot;&gt;
             &lt;div class=&quot;container&quot;&gt;
-                &lt;a class=&quot;brand&quot; href=&quot;/&quot;&gt;SSRR 2012&lt;/a&gt;
+                &lt;a class=&quot;brand&quot; href=&quot;http://www.ssrr-conference.org/2012&quot;&gt;SSRR 2012&lt;/a&gt;
                 &lt;ul class=&quot;nav&quot;&gt;
                     
                         
@@ -313,55 +313,55 @@
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/accommodations.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/accommodations.html&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/accommodations.html&quot; property=&quot;dc:title&quot;&gt;Accommodations&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/banquet.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/banquet.html&quot; property=&quot;dc:title&quot;&gt;Banquet &amp;amp; Tours&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/call-for-papers.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/call-for-papers.html&quot; property=&quot;dc:title&quot;&gt;Call for Papers&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-schedule.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/conference-schedule.html&quot; property=&quot;dc:title&quot;&gt;Conference Schedule&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/conference-venue.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/conference-venue.html&quot; property=&quot;dc:title&quot;&gt;Conference Venue&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/keynotes.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/keynotes.html&quot; property=&quot;dc:title&quot;&gt;Keynotes&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/keynotes.html&quot; property=&quot;dc:title&quot;&gt;Keynotes&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/registration.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/registration.html&quot; property=&quot;dc:title&quot;&gt;Registration&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
                         
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
-                            &lt;a href=&quot;/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2012/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -400,7 +400,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2012 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-03-03T21:20:26.029Z
+                This website was last updated at 2013-03-03T21:25:35.032Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
