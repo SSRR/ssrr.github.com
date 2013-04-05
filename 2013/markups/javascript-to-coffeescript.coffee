@@ -1,8 +1,8 @@
-(($) ->
-  $.fn.highlight = ->
-    $(this).css
-      color: "red"
-      background: "yellow"
+/* Type here! */
 
-    $(this).fadeIn()
-) jQuery
+(function ($) {
+    $.fn.highlight = function () {
+        $(this).css({ color: 'red', background: 'yellow' });
+        $(this).fadeIn();
+    };
+})(jQuery);
