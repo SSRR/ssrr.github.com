@@ -3,13 +3,15 @@
     <title>Benjamin Lupton</title>
     <link href="http://balupton.com/atom.xml" rel="self"/>
     <link href="http://balupton.com"/>
-    <updated>2013-04-05T07:06:15.380Z</updated>
+    <updated>2013-04-05T07:23:53.363Z</updated>
     <id>http://balupton.com</id>
     <author>
         <name>Benjamin Lupton</name>
         <email>b@lupton.cc</email>
     </author>
 
+    
+        
     
         
     
@@ -118,8 +120,20 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Sponsors.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/Sponsors.html&quot; property=&quot;dc:title&quot;&gt;Sponsors&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -133,12 +147,6 @@
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -176,7 +184,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-04-05T07:06:15.380Z
+                This website was last updated at 2013-04-05T07:23:53.363Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
@@ -258,8 +266,20 @@
                         
                     
                         
+                    
+                        
+                    
+                        
+                    
+                        
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Submissions.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/Submissions.html&quot; property=&quot;dc:title&quot;&gt;Submissions&lt;/a&gt;
+                        &lt;/li&gt;
+                        
+                    
+                        
+                        &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/Sponsors.html&quot; class=&quot;&quot;&gt;
+                            &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/Sponsors.html&quot; property=&quot;dc:title&quot;&gt;Sponsors&lt;/a&gt;
                         &lt;/li&gt;
                         
                     
@@ -273,12 +293,6 @@
                         &lt;li typeof=&quot;sioc:Page&quot; about=&quot;/pages/committee.html&quot; class=&quot;&quot;&gt;
                             &lt;a href=&quot;http://www.ssrr-conference.org/2013/pages/committee.html&quot; property=&quot;dc:title&quot;&gt;Commitee&lt;/a&gt;
                         &lt;/li&gt;
-                        
-                    
-                        
-                    
-                        
-                    
                         
                     
                         
@@ -316,7 +330,7 @@
         &lt;footer&gt;
             &lt;p&gt;&amp;copy; 2013 SSRR&lt;/p&gt;
             &lt;p style=&quot;float:right;&quot;&gt;
-                This website was last updated at 2013-04-05T07:06:15.380Z
+                This website was last updated at 2013-04-05T07:23:53.363Z
             &lt;/p&gt;
         &lt;/footer&gt;
     &lt;/div&gt;&lt;!-- /container --&gt;
