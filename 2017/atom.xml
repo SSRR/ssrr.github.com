@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>IEEE Symposium on Safety, Security, and Rescue Robotics - SSRR 2017</title>
+	<link href="http://www.ssrr-conference.org/2017/atom.xml" rel="self"/>
+	<link href="http://www.ssrr-conference.org/2017"/>
+	<updated>2017-03-13T12:52:33.307Z</updated>
+	<id>http://www.ssrr-conference.org/2017</id>
+	<author>
+		<name>Sören Schwertfeger</name>
+		<email></email>
+	</author>
+
+	
+</feed>
